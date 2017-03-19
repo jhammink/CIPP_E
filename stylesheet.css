@@ -1,0 +1,17 @@
+h2 {
+  text-indent: 1.5em;
+}
+h3 {
+  text-indent: 3em;
+}
+p,ul,ol,h4 {
+  margin-left: 4em;
+}
+
+.comment{
+	font-style: italic;
+}
+
+.emphasis{
+	font-weight:bold;
+}
